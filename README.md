@@ -1,5 +1,5 @@
 # Machine learning Project
 
-Details on the project.
+Details on the project.  
 
 Face recognition application
